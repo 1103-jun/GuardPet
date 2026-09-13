@@ -1,0 +1,14 @@
+﻿/.gradle/
+/.idea/
+/.kotlin/
+**/build/
+/local.properties
+*.apk
+*.ap_
+*.dex
+.DS_Store
+gp_custom.png
+captures/
+*.iml
+.cxx/
+*.hprof
